@@ -1,4 +1,8 @@
 streamlit
+sentence-transformers
+PyMuPDF
+langchain
+numpy
 google-generativeai
 python-dotenv
-sentence-transformers
+Pillow
